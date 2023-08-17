@@ -1,6 +1,7 @@
 package com.project.employeeservice.service;
 
 import com.project.employeeservice.dto.DepartmentDto;
+import com.project.employeeservice.dto.OrganizationDto;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.context.annotation.Bean;
 import org.springframework.http.HttpStatus;
